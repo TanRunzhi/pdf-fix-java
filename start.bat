@@ -1,0 +1,1 @@
+production\jdk\bin\java -classpath "production\pdf-fix-java;production\pdf-fix-java\pdfbox-2.0.8.jar;production\pdf-fix-java\commons-logging-1.2.jar" com.company.Main
